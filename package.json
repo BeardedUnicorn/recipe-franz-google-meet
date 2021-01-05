@@ -1,0 +1,24 @@
+{
+  "id": "googlemeet",
+  "name": "Google Meet",
+  "version": "1.0.0",
+  "description": "Google Meet",
+  "main": "index.js",
+  "author": "Mike Herold",
+  "repository": "",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://meet.google.com/",
+    "serviceName": "Google Meet",
+    "message": "Google Meet",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "customURL": false,
+    "hasTeamID": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
