@@ -5,7 +5,7 @@
   "description": "Google Meet",
   "main": "index.js",
   "author": "Mike Herold",
-  "repository": "",
+  "repository": "https://github.com/BeardedUnicorn/recipe-franz-google-meet",
   "license": "MIT",
   "config": {
     "serviceURL": "https://meet.google.com/",
